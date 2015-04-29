@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library xmlns="http://www.bsuir.by/library" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bsuir.by/library books.xsd">
+    <book id="2">
+        <title>Hobbit</title>
+        <author>
+            <firstName>John</firstName>
+            <secondName>Walse</secondName>
+            <born>1970-02-28</born>
+            <dead>2015-04-08</dead>
+        </author>
+        <year>1995</year>
+        <genre>DRAMA</genre>
+        <isbn>1-56619-909-3 </isbn>
+        <language>en</language>
+    </book>
+    <book id="8">
+        <title>Book</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>2000</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="9">
+        <title>Book</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>2000</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="10">
+        <title>Book</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>2000</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="12">
+        <title>Book</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>2000</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="20">
+        <title>Hobbit 2</title>
+        <author>
+            <firstName>John</firstName>
+            <secondName>Walse</secondName>
+            <born>1970-02-28</born>
+            <dead>2015-04-08</dead>
+        </author>
+        <year>0</year>
+        <genre>DRAMA</genre>
+        <isbn>1-56619-909-3 </isbn>
+        <language>en</language>
+    </book>
+    <book id="80">
+        <title>Book 2</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>0</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="90">
+        <title>Book 3</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>0</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="100">
+        <title>Book 10</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>0</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="120">
+        <title>Book 12</title>
+        <author>
+            <firstName>Steve</firstName>
+            <secondName>Conrad</secondName>
+            <born>3853-11-05</born>
+            <dead>3901-11-30</dead>
+        </author>
+        <year>0</year>
+        <genre>DETECTIVE</genre>
+        <isbn>978-1-56619-909-4</isbn>
+        <language>ru</language>
+    </book>
+    <book id="10101">
+        <title>01010101</title>
+        <author>
+            <firstName>John</firstName>
+            <secondName>London</secondName>
+            <born>1952-03-29</born>
+            <dead>2015-06-19</dead>
+        </author>
+        <year>1888</year>
+        <genre>MYTHS</genre>
+        <isbn>978-1-56619-909-4 </isbn>
+        <language>es</language>
+    </book>
+</library>

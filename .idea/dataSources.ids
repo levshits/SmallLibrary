@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - library@192.168.15.129" uuid="4db2a526-6883-41c1-bde1-8f570db8be39">
+    <database-info product="MySQL" version="5.5.5-10.0.17-MariaDB-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="library"/>
+    <table name="books" schema="" catalog="library" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="title" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="isbn" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="year" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <column name="genre" sqlType="ENUM" precision="11" scale="0" nullable="false" jdbcType="1"/>
+      <column name="firstname" sqlType="VARCHAR" precision="100" scale="0" nullable="false" jdbcType="12"/>
+      <column name="secondname" sqlType="VARCHAR" precision="100" scale="0" nullable="false" jdbcType="12"/>
+      <column name="born" sqlType="DATE" precision="10" scale="0" nullable="false" jdbcType="91"/>
+      <column name="dead" sqlType="DATE" precision="10" scale="0" nullable="false" jdbcType="91"/>
+      <column name="language" sqlType="VARCHAR" precision="100" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+  </data-source>
+</component>
